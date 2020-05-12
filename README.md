@@ -1,1 +1,1 @@
-# dart-bloc-annotation
+# dart-repository-generator

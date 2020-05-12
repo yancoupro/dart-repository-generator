@@ -1,0 +1,13 @@
+name: repository_annotation
+description: Create Event, State and Repo classes
+version: 1.0.0
+author: Yannick Coulombe <ycoulombepro@gmail.com>
+homepage: https://github.com/yancoupro/dart-repo-generator
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
+dependencies:
+
+dev_dependencies:
+  test: 1.14.3
